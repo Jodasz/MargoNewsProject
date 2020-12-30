@@ -1,0 +1,158 @@
+body, #mainNav ul  {
+    margin:0;
+    list-style-type: none;
+  background-color: #121620;
+
+}
+
+#mainHeader{
+    background-image: radial-gradient(#1c222f 20%,#1c222f 80%);
+    height: auto   ;
+    width: 100%;ds
+}
+
+
+#siteName  {
+    display:block;
+    height:30px;
+    width:200px;
+    background-color:#1c222f ;
+    line-height:30px;
+    text-align:center;
+    font-family:fantasy;
+    color: #0a6b17;
+    font-size: xx-large;
+    border:4px  #1f6409;
+
+
+}
+#mainNav ul {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    padding-right: 40px;
+    padding-bottom: 6px;
+    color: #505360;
+    text-align: center;
+    font-weight: bolder;
+    background-color: #1c222f;
+    vertical-align: top;
+
+}
+#mainNav ul li {
+
+    width: 20%;
+    cursor: pointer;
+}
+
+#news {
+display:-ms-flexbox ;
+
+    background-color: #1c222f;
+    border-width:145px;
+    border-bottom: 45px;
+    border-left-width: auto;
+    margin: 10%;
+    border-radius: 20px;
+
+
+
+
+
+1
+}
+#mainFooter {
+
+    display: flex;
+
+}
+
+.newsContent {
+
+    background-color: #1c222f;
+    padding: 10px;
+    margin: 10px 0px;
+    text-align: center;
+
+
+}
+.show {
+
+    display: block;
+}
+.hidden {
+
+    display: none;
+}
+article[id^='elem']{
+
+padding: 15px;
+    min-height: 30px;
+  margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+.h3 {
+    font-size: 1.75rem;
+ text-align: center;
+
+}
+.p {
+
+font-family: "Times New Roman";
+
+
+}
+#pi {
+ width: 300px;
+    font-size: large;
+    color: #61748d;
+
+}
+#i {
+    font-style: italic;
+    text-align: center;
+    color: #839496;
+
+
+}
+#news a {
+
+list-style-type: none;
+    text-decoration: none;
+
+}
+
+
+
+#elem4 {
+
+    display: flex;
+
+
+
+}
+
+.k {
+
+    color: #121620;
+    font-size: xx-large;
+    font-style: normal;
+    font-family: TeamViewer15;
+    font-weight: bolder;
+    margin: 0px;
+    margin-left: 15px;
+    width: 10px;
+    height: 10px;
+
+}
+
+#frak {
+ color: #0a6b17;
+    display: flex;
+    border-radius: 30px;
+
+
+}
